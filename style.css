@@ -11,10 +11,11 @@
 }
 
 * {
-    margin: 10px;
+    margin: 5px;
     padding: 0px;
     font-size: 1em;
   }
+
 
 html, body {
     min-height: 100vh;
@@ -23,7 +24,7 @@ html, body {
            }
 
 header {
-    background-color: black;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.055), rgb(53, 2, 2), black );
     color: white;
     text-align: center;
     
